@@ -1,0 +1,39 @@
+.jumbotron {
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: rgb(17, 17, 116);
+    font-size: 25px;
+}
+
+.btn {
+    margin: 10px 0px 10px 45px;
+    display: block;
+}
+
+/* .row {
+    border: 1px solid black;
+} */
+
+.prompt {
+    margin: 10px 0px 10px 45px;
+}
+
+#search-term {
+    margin: 10px 0px 10px 45px;
+    width: 330px;
+}
+
+.form-group {
+    display: block;
+    
+}
+
+.container {
+    margin-left: 40px;
+}
+
+.form-group {
+    width: 300px;
+}
+
